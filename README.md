@@ -41,12 +41,12 @@ pip install shap pickle5 pandas matplotlib numpy xgboost scikit-learn
    - Install the required Python libraries as listed in the dependencies section above.
 
 4. **Prepare the Data:**
-   - Ensure your data file `Formatted_ML_EHD_Data.csv` is placed in the correct directory as expected by the script.
+   - Ensure your data file is formatted in agreement with the example `Formatted_ML_EHD_Data.csv` and placed in the correct directory as expected by the script.
 
 5. **Run the Code:**
    - Execute the Python script that performs SHAP analysis and generates visualizations:
      ```bash
-     python <script_name>.py
+     python ship.py
      ```
    - This script will load the model, process the data, and create various SHAP plots.
 
