@@ -28,7 +28,7 @@ pip install shap pickle5 pandas matplotlib numpy xgboost scikit-learn
 1. **Clone the Repository:**
    - Clone this repository to your local machine using:
      ```bash
-     git clone <repository-url>
+     git clone https://github.com/AriadneD/electrospray-shap.git
      ```
 
 2. **Navigate to the Project Directory:**
