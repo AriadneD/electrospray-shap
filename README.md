@@ -83,9 +83,13 @@ pip install shap pickle5 pandas matplotlib numpy xgboost scikit-learn
 - Water
 
 ## Data Access
-The models and the data used for training the models and running the SHAP analysis are sourced from the research conducted by Wang, F. et al. in the paper titled "Machine learning predicts electrospray particle size." You can access the data from their FigShare repository:
+The models and the data used for training the models and running the SHAP analysis are sourced from the research conducted by Wang, F. et al. in the paper titled "Machine learning predicts electrospray particle size." 
 
+You can access the data from their FigShare repository:
 [https://doi.org/10.6084/m9.figshare.25040459.v1](https://doi.org/10.6084/m9.figshare.25040459.v1)
+
+You can access the models from the GitHub repository:
+[https://github.com/FrankWanger/ML_EHD/tree/main](https://github.com/FrankWanger/ML_EHD/tree/main)
 
 ## Original Paper Attribution
 This code and analysis are based on the work presented in:
